@@ -1,0 +1,110 @@
+/*
+ Theme Name:   Ivy School Child
+ Theme URI:    http://ivy-school.thimpress.com/
+ Description:  Ivy School Child Theme
+ Author:       ThimPress
+ Author URI:   http://thimpress.com
+ Template:     ivy-school
+ Version:      1.0.0
+ Text Domain:  ivy-school-child
+*/
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Light.woff2') format('woff2'),
+    url('fonts/Poppins-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Bold.woff2') format('woff2'),
+    url('fonts/Poppins-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Medium.woff2') format('woff2'),
+    url('fonts/Poppins-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-SemiBold.woff2') format('woff2'),
+    url('fonts/Poppins-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Regular.woff2') format('woff2'),
+    url('fonts/Poppins-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Heebo';
+    src: url('fonts/Heebo-Light.eot');
+    src: url('fonts/Heebo-Lightd41d.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Heebo-Light.svg#Heebo-Light') format('svg'),
+    url('fonts/Heebo-Light.ttf') format('truetype'),
+    url('fonts/Heebo-Light.woff') format('woff'),
+    url('fonts/Heebo-Light.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Heebo';
+    src: url('fonts/Heebo-Medium.eot');
+    src: url('fonts/Heebo-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Heebo-Medium.svg#Heebo-Medium') format('svg'),
+    url('fonts/Heebo-Medium.ttf') format('truetype'),
+    url('fonts/Heebo-Medium.woff') format('woff'),
+    url('fonts/Heebo-Medium.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto-Regular.eot');
+  src: url('fonts/Roboto-Regulard41d.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Roboto-Regular.svg#Roboto-Regular') format('svg'),
+       url('fonts/Roboto-Regular.ttf') format('truetype'),
+       url('fonts/Roboto-Regular.woff') format('woff'),
+       url('fonts/Roboto-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('fonts/PlayfairDisplay-Regular.eot');
+  src: url('fonts/PlayfairDisplay-Regulard41d.eot?#iefix') format('embedded-opentype'),
+       url('fonts/PlayfairDisplay-Regular.svg#PlayfairDisplay-Regular') format('svg'),
+       url('fonts/PlayfairDisplay-Regular.ttf') format('truetype'),
+       url('fonts/PlayfairDisplay-Regular.woff') format('woff'),
+       url('fonts/PlayfairDisplay-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('fonts/PlayfairDisplay-Bold.eot');
+  src: url('fonts/PlayfairDisplay-Boldd41d.eot?#iefix') format('embedded-opentype'),
+       url('fonts/PlayfairDisplay-Bold.svg#PlayfairDisplay-Bold') format('svg'),
+       url('fonts/PlayfairDisplay-Bold.ttf') format('truetype'),
+       url('fonts/PlayfairDisplay-Bold.woff') format('woff'),
+       url('fonts/PlayfairDisplay-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
